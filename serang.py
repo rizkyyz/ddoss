@@ -22,7 +22,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Kang Down")
 print
-print  "Author     : rizkyyz / tn.angel"
+print  "          ddos webserver from tn-angel    "
+print  "Author     : rizkyyz"
 print  "Youtube    : https://www.youtube.com/channel/UChSMz4axIFiSPW9z-vuvjxA"
 print  "github     : https://github.com/rizkyyz"
 print  "facebook   : https://www.facebook.com/Mrsky"
